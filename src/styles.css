@@ -1,0 +1,13 @@
+/* styles.css */
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: #e0732b;
+}
