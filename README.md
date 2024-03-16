@@ -20,5 +20,6 @@ npm start
 
 # Screenshots
 <p align="center">
-  <img src="https://github.com/karenyov/my-cv-react//blob/main/app.png" width="700">
+  <img src="https://github.com/karenyov/my-cv-react/blob/main/app.png" width="700">
 </p>
+
